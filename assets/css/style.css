@@ -1847,8 +1847,8 @@ section {
   vertical-align: middle;
 }
 
-.container .row{
-  padding: 10%;
+.container {
+  padding: 0px 10%;
 }
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media (max-width: 800px) {
